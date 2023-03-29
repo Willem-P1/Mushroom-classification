@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/4266129954_2678279330_223132457.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/1442284246_329969645_1457975762.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/1442284246_1008013484_1652738300.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/1380718205_190800790_95280917.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/1442284246_2942705360_4067896025.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/mushrooms/1442284246_125286499_3265555391.mp4'

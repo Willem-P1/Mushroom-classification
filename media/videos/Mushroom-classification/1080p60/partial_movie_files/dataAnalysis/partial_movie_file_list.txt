@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/2902699114_3615214633_1085898510.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_329969645_2019690722.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_4224888658_4071915412.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_3025250932_3053609663.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_1353138111_3037686066.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_2947556105_9588079.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_3073779459_447320255.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/2365230007_136428935_3814486476.mp4'
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/1080p60/partial_movie_files/dataAnalysis/3931933789_125286499_3307951012.mp4'

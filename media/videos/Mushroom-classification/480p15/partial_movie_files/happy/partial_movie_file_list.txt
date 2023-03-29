@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/jeremypalmerio/Desktop/KEN/KEN3450/Mushroom-classification/media/videos/Mushroom-classification/480p15/partial_movie_files/happy/4266129954_2575953085_3362834651.mp4'
